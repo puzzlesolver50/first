@@ -42,7 +42,7 @@ CELESTIA_CHAIN="mamaki"
 به عنوان مثال :
 
 CELESTIA_NODENAME="ps50" 
-CELESTIA_WALLET="ps50"
+CELESTIA_WALLET="puzzles50"
 CELESTIA_CHAIN="mamaki"
 
 ----------------------------------------------------------
