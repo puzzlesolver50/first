@@ -41,7 +41,7 @@ CELESTIA_CHAIN="mamaki"
 اطلاعات داخل ""  رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قرار بدید
 به عنوان مثال :
 
-CELESTIA_NODENAME="puzs50" 
+CELESTIA_NODENAME="puzzs50" 
 CELESTIA_WALLET="puzzlesolve50"
 CELESTIA_CHAIN="mamaki"
 
